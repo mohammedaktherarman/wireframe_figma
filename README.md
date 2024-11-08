@@ -19,3 +19,9 @@
 <p>una vegada seleccionada li surt la llista amb checkboxes per marca si ha faltat si ha estat retard o si ha estat present el alumne <p>
 
 ![alt text](/captures%20figma/image-5.png)
+
+<p>el administrado pot gestiona els usuaris de la aplicacio i les seves funcions afegir i eliminar alumnes el mateix amb els professors<p>
+
+![alt text](/captures%20figma/image22.png)
+
+![alt text](/captures%20figma/image33.png)
