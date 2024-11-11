@@ -1,4 +1,4 @@
-## Sprint 1 Arman WireFrame Figma 
+# Sprint 1 Arman WireFrame Figma 
 
 ![alt text](/captures%20figma/image.png)
 
@@ -19,3 +19,42 @@
 <p>el administrado pot gestiona els usuaris de la aplicacio i les seves funcions afegir i eliminar alumnes el mateix amb els professors<p>
 
 ![alt text](/captures%20figma/image-3.png)
+
+
+# Sprint 1 Andrés González Figma
+
+## Pàgina de login
+
+La pàgina de login et permet, iniciar sessió com alumne, professor o administrador i depenent de l'usuari que entri, s'anirà cap a la pàgina principal d'aquell usuari, sigui alumne, professor o admin. A més, també et permet crear un compte però només en el cas dels alumnes.
+![Pàgina de login](/capturesMovil/inici.png)
+
+## Creació de compte per l'alumne
+
+Aquesta pàgina és simple, demana email, contrasenya i l'institut al qual vols donar-t'hi d'alta.
+![Creació de compte](/capturesMovil/creacio.png)
+
+## Pàgina principal de l'alumne
+
+Aquesta pàgina conté un menú de tres línies, que permet veure, el perfil, dades del centre, configuració i ajuda. També permet veure els detalls de les assistències.
+![Pàgina principal alumne](/capturesMovil/principal.png)
+
+### Detalls assistències alumne
+
+Aquí es veuen els detalls de l'assistència d'un alumne filtrat per dia.
+![Detalls assistència alumne](/capturesMovil/detalls.png)
+
+## Pàgina principal del professor
+
+Aquesta pàgina també conté el menú de tres línies que permeten veure el mateix que l'alumne. A més, et permet com a professor, escollir el dia, l'assignatura, l'hora i el grup i també un botó per passar llista d'assitència.
+![Passar llista](/capturesMovil/principalProfe.png)
+
+### Llista d'assitència
+
+Aquí els professors podràn passar llista a tots els alumnes que donin classe
+![Llista asistència](/capturesMovil/llistaAsistencia.png)
+
+## Pàgina principal de l'administrador
+
+Aquesta pàgina és simple, conté totes les opcions tant de l'alumne com del professor i a més, és qui donarà d'alta tant a alumnes nous com a professors. També els donarà de baixa.
+![Principal 1](/capturesMovil/principalAdmin1.png)
+![Principal 2](/capturesMovil/principalAdmin2.png)
