@@ -1,7 +1,7 @@
 # Sprint 2 Arman, Andres Base de Dates
 
 <p>
-Aquest és el disseny amb els rols i la tabla aula afegida on esta assignat dintre del horari
+Aquest és el disseny de la base de dades
 
 Relació Alumne-Grup:
 Cada alumne està assignat a un grup específic (per exemple, DAW, DAM, etc.). Aquest grup conté diverses assignatures (com ara M7, M6, etc.).
